@@ -25,7 +25,7 @@ Seu impacto pode levar à redução da produtividade, ao colapso de colmeias e a
 <hr>
 
 <h3>Tecnologias 💻 </h3>
-<p>Para fazer o projeto funcionar, estamos utilizando:
+<p>Para fazer o projeto funcionar, estamos utilizando:<br>
 • Python - Para desenvolver o back-end, junto a bibliotecas como o FastAPI, Uvicorn, bycript e SQLAlchemy.<br>
 • React.js - Para desenvolver o Front-end, em combinação com Leaflet (Renderização de Mapas).
 <hr>
