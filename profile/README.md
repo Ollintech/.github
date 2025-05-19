@@ -18,15 +18,15 @@ Seu impacto pode levar à redução da produtividade, ao colapso de colmeias e a
 
 <h3>Objetivo 💹</h3>
 <p>Sob essa ótica, nosso projeto tem como objetivos: <br></p>
-<p>• Identificar precocemente a presença do ácaro Varroa na colônia.
-• Monitorar variáveis que favorecem o aparecimento dos ácaros Varroa.
-• Consultar e mostrar níveis de temperatura por meio da aplicação web.
+<p>• Identificar precocemente a presença do ácaro Varroa na colônia.<br>
+• Monitorar variáveis que favorecem o aparecimento dos ácaros Varroa.<br>
+• Consultar e mostrar níveis de temperatura por meio da aplicação web.<br>
 • Alertar o apicultor ao identificar a Varroa. </p>
 <hr>
 
 <h3>Tecnologias 💻 </h3>
 <p>Para fazer o projeto funcionar, estamos utilizando:
-• Python - Para desenvolver o back-end, junto a bibliotecas como o FastAPI, Uvicorn, bycript e SQLAlchemy.
+• Python - Para desenvolver o back-end, junto a bibliotecas como o FastAPI, Uvicorn, bycript e SQLAlchemy.<br>
 • React.js - Para desenvolver o Front-end, em combinação com Leaflet (Renderização de Mapas).
 <hr>
 
